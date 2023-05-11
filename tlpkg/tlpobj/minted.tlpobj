@@ -1,0 +1,38 @@
+name minted
+category Package
+revision 65252
+shortdesc Highlighted source code for LaTeX
+longdesc The package that facilitates expressive syntax highlighting in
+longdesc LaTeX using the powerful Pygments library. The package also
+longdesc provides options to customize the highlighted source code
+longdesc output using fancyvrb.
+depend catchfile
+depend etoolbox
+depend fancyvrb
+depend float
+depend framed
+depend fvextra
+depend graphics
+depend ifplatform
+depend kvoptions
+depend lineno
+depend pdftexcmds
+depend tools
+depend upquote
+depend xcolor
+depend xstring
+containersize 10028
+containerchecksum faf543c7f48371cca2a4af7d1e4e1e9b16c13673908417ec982d773dac561ab9e467f79bed230f5c0e359fc82c5cfff1f83e18cb6261279943d1e5a2f117ea2f
+doccontainersize 837736
+doccontainerchecksum 41640837e53d5b9cdce55a8f29707fe4f654da19813efbc1770df39b8f00aabdf600032dd504a8cebe23b4ef91e226014a94e031c52d0458f0684c5a53bd276a
+srccontainersize 46460
+srccontainerchecksum 384af78dba5447f7169804597afba5b42f8860cabe691e2490d90248ed798880d11471e8cad7ede8a4b1dbaf7b9684dea05ae54719c7637b8f5b6d953fd0ba98
+runfiles size=15
+ texmf-dist/tex/latex/minted/minted.sty
+ texmf-dist/tex/latex/minted/minted1.sty
+catalogue-also texments verbments
+catalogue-contact-repository https://github.com/gpoore/minted
+catalogue-ctan /macros/latex/contrib/minted
+catalogue-license lppl1.3
+catalogue-topics listing synt-hlt
+catalogue-version 2.7

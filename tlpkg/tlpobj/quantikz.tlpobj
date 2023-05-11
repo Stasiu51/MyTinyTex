@@ -1,0 +1,19 @@
+name quantikz
+category Package
+revision 66934
+shortdesc Draw quantum circuit diagrams
+longdesc The purpose of this package is to extend TikZ with the
+longdesc functionality for drawing quantum circuit diagrams.
+containersize 19948
+containerchecksum 1709284aa708efbd081c2f847aefb63c6d138957026e373b5a0f0868acc2ac0d96fef95b52fa42697dfd64f077fa3ec06d3f9d6296da76774058bd5149bdca41
+doccontainersize 586980
+doccontainerchecksum b891658a77d366f6c6b9e1bfc3ddf6a27ec8862f3618f93374e71ee1daadfd5d4450b2d05e3206a4a79a701ad7646bde86ee429a1e8ce5bf765aadb3105a7555
+runfiles size=36
+ texmf-dist/tex/latex/quantikz/quantikz.sty
+ texmf-dist/tex/latex/quantikz/tikzlibraryquantikz.code.tex
+ texmf-dist/tex/latex/quantikz/tikzlibraryquantikz2.code.tex
+catalogue-also qcircuit
+catalogue-ctan /graphics/pgf/contrib/quantikz
+catalogue-license cc-by-4
+catalogue-topics graphics pgf-tikz diagram-circ
+catalogue-version 1.0.0

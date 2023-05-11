@@ -1,0 +1,23 @@
+name mismath
+category Package
+revision 66391
+shortdesc Miscellaneous mathematical macros
+longdesc The package provides some mathematical macros to typeset:
+longdesc mathematical constants e, i, p in upright shape (automatically)
+longdesc as recommended by ISO 80000-2, vectors with beautiful arrows
+longdesc and adjusted norm, some standard operator names, improved
+longdesc spacings in mathematical formulas, systems of equations and
+longdesc small matrices, displaymath in double columns for long
+longdesc calculations.
+containersize 3740
+containerchecksum e0d0362d551ed3c5c97abf2313bf6a39edfdf2c41069b8ccdf034d55d1b3eb4905c1befc1d160e987fa1c23a74038af4992197ba8636d4ffaa669a23ca9e4f10
+doccontainersize 237072
+doccontainerchecksum 1bf85476e5be486586593059e2397f2523cc5f802fa145c7c308a8a0ebaa563a25a2e7ad3ce8eac956612017af1166125dba92d862d8817e8534dbe428b61d63
+srccontainersize 19892
+srccontainerchecksum 9d98fde480d86cc406e7e2af792143cf63abb9b99f57bc459a06c3062612810111cbf67bf328846ead6ac367dc5ef992e9f7b885f8c04c3b550c276b9536bfda
+runfiles size=3
+ texmf-dist/tex/latex/mismath/mismath.sty
+catalogue-ctan /macros/latex/contrib/mismath
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 2.7

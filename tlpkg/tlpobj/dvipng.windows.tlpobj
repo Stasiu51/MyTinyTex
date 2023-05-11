@@ -1,0 +1,9 @@
+name dvipng.windows
+category TLCore
+revision 65891
+shortdesc windows files of dvipng
+containersize 451244
+containerchecksum 59b4c26574bdd65a8eec53ebfdd5a28da490bbed05cc02037a7af700da38d66d3e3a3472bad949e5efcc9af4a2f5e10d7a541cd6a46955736a0259244e428520
+binfiles arch=windows size=267
+ bin/windows/dvigif.exe
+ bin/windows/dvipng.exe
